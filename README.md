@@ -1,4 +1,5 @@
-### Ola eu sou Raul , Estudande do terceiro periodo em Ciências da Computação e iniciante no mundo da programação
+### Ola eu sou Raul 
+
 ![Raulvini GitHub stats](https://github-readme-stats.vercel.app/api?username=Raulvini&show_icons=true&theme=cobalt)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raulvini)](https://github.com/Raulvini/github-readme-stats)
 ### Tecnologias que estou apredendo:
 <div style = "display incline_block"><br/>
