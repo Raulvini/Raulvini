@@ -1,7 +1,9 @@
 ### Olá, eu sou o Raul! 👋
 
-![Raulvini GitHub stats](https://github-readme-stats.vercel.app/api?username=Raulvini&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raulvini&layout=compact&theme=cobalt)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raulvini&show_icons=true&theme=cobalt" alt="Raulvini GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raulvini&layout=compact&theme=cobalt" alt="Top Langs" height="180" />
+</p>
 
 ### 🛠️ Tecnologias e Ferramentas:
 <div style="display: inline-block">
