@@ -1,9 +1,7 @@
 ### Olá, eu sou o Raul! 👋
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raulvini&show_icons=true&theme=cobalt" alt="Raulvini GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raulvini&layout=compact&theme=cobalt" alt="Top Langs" height="180" />
-</p>
+Sou desenvolvedor Java com 2 anos de experiência, atuando atualmente como freelancer. Tenho experiência em desenvolvimento backend e frontend. Possuo conhecimento em tecnologias como Hibernate, Java, Spring Boot, bancos de dados relacionais, além de experiência com testes unitários e de integração. Também tenho 6 meses de experiência prática com Angular, trabalhando com desenvolvimento web.
+
 
 ### 🛠️ Tecnologias e Ferramentas:
 <div style="display: inline-block">
